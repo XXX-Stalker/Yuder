@@ -1,0 +1,20 @@
+Name: Yuder
+
+day:2025/3/23
+
+Code introduce:
+---------------------------------------
+file:
+    -   |User|:
+    -   -   front end:
+    -   -   -   |1. blue_screen.py|
+    -   -   backend:
+    -   -   -   |1. main.py|
+    -   -   -   |2. copy.py|
+    -   -   -   |3. startup.py|
+    -   -   -   |4. Enter_password.py|
+    -   |Admin|:
+    -   -   |setup.py|
+    -   -   |all_password.txt|
+    -   -   |random.py|
+---------------------------------------
